@@ -2,9 +2,9 @@
 
 #### :heavy_check_mark:핵심  
 
-[**2020.02.06 한국통신학회 동계학술대회 학부 우수논문 부분 우수상**][https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09346538]  
+[**2020.02.06 한국통신학회 동계학술대회 학부 우수논문 부분 우수상**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09346538)
 
-[**2021.04 한국통신학회 논문지(KCI) 게재**][https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10547239]  
+[**2021.04 한국통신학회 논문지(KCI) 게재**](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10547239)
 
 기간 : 2019/09 - 2021/04    
 
